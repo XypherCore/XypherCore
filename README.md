@@ -13,7 +13,7 @@ Building a structured path through:
 ## Ascension-X Progress
 - [x] Stage 1 — Computer Systems & OS
 - [x] Stage 2 — Computer Networking
-- [x] Stage 3 — Programming Languages
+- [ ] Stage 3 — Programming Languages
 - [ ] Stage 4 — Mathematics & Logic
 - [ ] Stage 5 — Data Structures & Algorithms
 - [ ] Stage 6 — Embedded Systems & Control
