@@ -17,15 +17,6 @@ Not chasing certifications. Building the actual foundation.
 
 ---
 
-## ⚡ Currently Building
-
-```
-Ascension-X — Stage 1, Phase 3
-└── JavaScript: async patterns, event-driven logic, APIs
-```
-
----
-
 ## 🛠 Currently Focused On
 
 `JavaScript` — async programming, event-driven logic, APIs, real-time data handling
