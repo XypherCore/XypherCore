@@ -26,15 +26,9 @@ Ascension-X — Stage 1, Phase 3
 
 ---
 
-## 🛠 Stack in Progress
+## 🛠 Currently Focused On
 
-| Layer | Language | Status |
-|---|---|---|
-| Control & Interface | JavaScript | ████████░░ Active |
-| Brain & Automation | Python | ██████░░░░ Intermediate |
-| Systems & Low-level | C | ░░░░░░░░░░ Queued |
-
-> This table updates as I progress. Fast.
+`JavaScript` — async programming, event-driven logic, APIs, real-time data handling
 
 ---
 
@@ -42,7 +36,7 @@ Ascension-X — Stage 1, Phase 3
 
 | Repo | What it is |
 |---|---|
-| [`js-core`](https://github.com/XypherCore/js-core) | JS exercises & projects |
+| [`js-core`](https://github.com/XypherCore/js-core) | JS exercises & projects — Days 1–29 and beyond |
 | More coming | Each stage of Ascension-X gets its own repo |
 
 ---
