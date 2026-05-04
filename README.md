@@ -1,34 +1,67 @@
-# XypherCore
+<div align="center">
 
-> Systems · Security · Intelligence
+```
+╔═══════════════════════════════════════╗
+║           X Y P H E R C O R E        ║
+║     Systems · Security · Intelligence ║
+╚═══════════════════════════════════════╝
+```
 
-Building a structured path through:
-- Computer Systems & Networking
-- Programming (JS · Python · C)
-- Ethical Hacking & Security
-- Intelligent Systems & AI
+</div>
 
 ---
 
-## Ascension-X Progress
-- [x] Stage 1 — Computer Systems & OS
-- [x] Stage 2 — Computer Networking
-- [ ] Stage 3 — Programming Languages
-- [ ] Stage 4 — Mathematics & Logic
-- [ ] Stage 5 — Data Structures & Algorithms
-- [ ] Stage 6 — Embedded Systems & Control
-- [ ] Stage 7 — Linux & OS Security
-- [ ] Stage 8 — Network Security
-- [ ] Stage 9 — Application & Web Security
-- [ ] Stage 10 — Low-Level Exploitation
-- [ ] Stage 11 — Data Handling & Analytics
-- [ ] Stage 12 — AI & Machine Learning
-- [ ] Stage 13 — Natural Language Processing
-- [ ] Stage 14 — Computer Vision
-- [ ] Stage 15 — Decision-Making Systems
-- [ ] Stage 16 — Robotics & Agents
-- [ ] Stage 17 — Aerospace Fundamentals
-- [ ] Stage 18 — Control Systems
-- [ ] Stage 19 — Aerospace Software & Avionics
-- [ ] Stage 20 — Cloud & Distributed Systems
-- [ ] Stage 21 — Integrated Systems Projects
+Self-taught. India. Building toward aerospace-grade intelligent systems — the kind of technology that doesn't exist yet at the intersection of AI, security, and control systems.
+
+Not chasing certifications. Building the actual foundation.
+
+---
+
+## ⚡ Currently Building
+
+```
+Ascension-X — Stage 1, Phase 3
+└── JavaScript: async patterns, event-driven logic, APIs
+```
+
+---
+
+## 🛠 Stack in Progress
+
+| Layer | Language | Status |
+|---|---|---|
+| Control & Interface | JavaScript | ████████░░ Active |
+| Brain & Automation | Python | ██████░░░░ Intermediate |
+| Systems & Low-level | C | ░░░░░░░░░░ Queued |
+
+> This table updates as I progress. Fast.
+
+---
+
+## 🗂 Repositories
+
+| Repo | What it is |
+|---|---|
+| [`js-core`](https://github.com/XypherCore/js-core) | JS exercises & projects |
+| More coming | Each stage of Ascension-X gets its own repo |
+
+---
+
+## 📡 Ascension-X — The Roadmap
+
+A structured 21-phase self-built curriculum across:
+
+- **Systems** — OS internals, networking, embedded
+- **Security** — Ethical hacking, exploitation, hardening  
+- **Intelligence** — AI/ML, NLP, computer vision, robotics
+- **Aerospace** — Flight dynamics, avionics, control systems
+
+> Currently on Phase 3 of 21. No shortcuts.
+
+---
+
+<div align="center">
+
+*The goal isn't a job. It's to build a spaceship.*
+
+</div>
