@@ -27,7 +27,7 @@ Not chasing certifications. Building the actual foundation.
 
 | Repo | What it is |
 |---|---|
-| [`js-core`](https://github.com/XypherCore/js-core) | JS exercises & projects — Days 1–29 and beyond |
+| [`js-core`](https://github.com/XypherCore/js-core) | Raw JavaScript — exercises, concepts, and builds from the ground up |
 | More coming | Each stage of Ascension-X gets its own repo |
 
 ---
