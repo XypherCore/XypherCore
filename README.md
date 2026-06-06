@@ -11,7 +11,7 @@
 
 ---
 
-**Vael Kyron.** Self-taught. Building toward aerospace-grade intelligent systems — the kind of technology that doesn't exist yet at the intersection of AI, security, and control systems.
+**Aelvon.** Self-taught. Building toward aerospace-grade intelligent systems — the kind of technology that doesn't exist yet at the intersection of AI, security, and control systems.
 
 Not chasing certifications. Building the actual foundation.
 
