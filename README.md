@@ -28,7 +28,7 @@ Not chasing certifications. Building the actual foundation.
 | Repo | What it is |
 |---|---|
 | [`js-core`](https://github.com/XypherCore/js-core) | Raw JavaScript — exercises, concepts, and builds from the ground up |
-| [`python-core`] (https://github.com/XypherCore/python-core) | Python mastery: exercises, OOP, automation, and builds from the ground up |
+| [`python-core`](https://github.com/XypherCore/python-core) | Python mastery: exercises, OOP, automation, and builds from the ground up |
 | More coming | Each stage of Ascension-X gets its own repo |
 
 ---
