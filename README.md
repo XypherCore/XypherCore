@@ -19,7 +19,7 @@ Not chasing certifications. Building the actual foundation.
 
 ## 🛠 Currently Focused On
 
-`JavaScript` — async programming, event-driven logic, APIs, real-time data handling
+`Python` — Core Syntax, OOP, File, network, and process handling, Automation & Scripting
 
 ---
 
